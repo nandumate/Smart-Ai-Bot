@@ -1,5 +1,5 @@
 # 🚀 Smart AI Bot
-
+https://smartbotbynandu.netlify.app/
 The **Smart AI Bot** is an interactive web application that allows users to chat with an AI, upload images, generate images from text prompts, and get text-based responses. The application leverages state-of-the-art AI models for content generation and image processing.
 
 ## 🌟 Features
